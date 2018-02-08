@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="145px" viewBox="0 0 145 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>6_diabetes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="72.375" cy="72.375" rx="72.375" ry="72.375"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="144.75" height="144.75" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M72.5,104.404326 C84.9264069,104.404326 95,94.1432303 95,81.4855279 C95,68.8278255 72.5,40 72.5,40 C72.5,40 50,68.8278255 50,81.4855279 C50,94.1432303 60.0735931,104.404326 72.5,104.404326 Z" id="path-3"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(-430.000000, -8453.000000)">
+            <g id="6_diabetes" transform="translate(430.000000, 8453.000000)">
+                <use id="Oval-2-Copy-4" stroke="#FFF6EB" mask="url(#mask-2)" stroke-width="8" fill="#D45353" xlink:href="#path-1"></use>
+                <g id="Oval-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFF6EB" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="Group-5" transform="translate(64.000000, 72.000000)" stroke="#D45353" stroke-width="5" stroke-linecap="round">
+                    <path d="M8.5,0.5 L8.5,17.5293864" id="Line"></path>
+                    <path d="M17.0293864,9 L0,9" id="Line-Copy-30"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

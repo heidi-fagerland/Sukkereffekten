@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>6_blodtrykk</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="54.5" cy="54.5" rx="54.5" ry="54.5"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="109" height="109" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(-653.000000, -8399.000000)">
+            <g id="6_blodtrykk" transform="translate(653.000000, 8399.000000)">
+                <use id="Oval-2-Copy-5" stroke="#E9E9E9" mask="url(#mask-2)" stroke-width="4" fill="#47719D" xlink:href="#path-1"></use>
+                <path d="M54.05,77.9417522 C62.9141702,77.9417522 70.1,70.622171 70.1,61.5930099 C70.1,52.5638489 54.05,32 54.05,32 C54.05,32 38,52.5638489 38,61.5930099 C38,70.622171 45.1858298,77.9417522 54.05,77.9417522 Z" id="Oval-3-Copy" fill="#EBE0D2"></path>
+                <polyline id="Path-9" stroke="#A2998D" stroke-linecap="round" stroke-linejoin="round" points="42 63 46 63 48 58 50 65 52 60 54 65 57 53 60 63 67 63"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

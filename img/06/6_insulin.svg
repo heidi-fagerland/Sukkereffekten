@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>6_insulin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="54.5" cy="54.5" rx="54.5" ry="54.5"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="109" height="109" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(-240.000000, -7983.000000)">
+            <g id="6_insulin" transform="translate(240.000000, 7983.000000)">
+                <use id="Oval-2-Copy-6" stroke="#E9E9E9" mask="url(#mask-2)" stroke-width="4" fill="#47719D" xlink:href="#path-1"></use>
+                <g id="Group-11" transform="translate(54.500000, 55.000000) rotate(40.000000) translate(-54.500000, -55.000000) translate(46.000000, 28.000000)">
+                    <path d="M8.5,40.95 L8.5,53.55" id="Line" stroke="#D4C9BB" stroke-width="0.9" stroke-linecap="square"></path>
+                    <path d="M8.5,2.25 L8.5,12.1908249" id="Line" stroke="#D4C9BB" stroke-width="2.7" stroke-linecap="square"></path>
+                    <rect id="Rectangle-9" fill="#EBE0D2" x="1.78947368" y="10.8" width="13.4210526" height="31.5"></rect>
+                    <rect id="Rectangle-9-Copy" fill="#EBE0D2" x="-1.39864728e-13" y="-1.27897692e-13" width="17" height="1.8"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="145px" viewBox="0 0 145 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>6_overvekt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="72.375" cy="72.375" rx="72.375" ry="72.375"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="144.75" height="144.75" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <ellipse id="path-4" cx="22.043956" cy="9.59349593" rx="9.58432871" ry="9.59349593"></ellipse>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2.25" y="-2.25" width="23.6686574" height="23.6869919">
+            <rect x="10.2096273" y="-2.25" width="23.6686574" height="23.6869919" fill="white"></rect>
+            <use xlink:href="#path-4" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(-709.000000, -8174.000000)">
+            <g id="6_overvekt" transform="translate(709.000000, 8174.000000)">
+                <use id="Oval-2-Copy" stroke="#FFF6EB" mask="url(#mask-2)" stroke-width="8" fill="#D45353" xlink:href="#path-1"></use>
+                <g id="Fat" transform="translate(51.000000, 40.000000)">
+                    <g id="Legs" filter="url(#filter-3)" transform="translate(14.376493, 41.731707)" stroke="#FFF6EB" stroke-width="12.5" stroke-linecap="round">
+                        <path d="M2.6356904,0.239837398 L0.239608218,16.5487805" id="Line"></path>
+                        <path d="M13.4180602,0.479674797 L15.3206541,16.853649" id="Line-Copy-31"></path>
+                    </g>
+                    <ellipse id="Oval-9" stroke="#D45353" stroke-width="2.25" fill="#FFF6EB" cx="21.8043478" cy="33.3373984" rx="16.532967" ry="16.5487805"></ellipse>
+                    <g id="Arms" transform="translate(0.000000, 19.186992)" stroke="#FFF6EB" stroke-width="6.75" stroke-linecap="round">
+                        <path d="M16.7730743,0.426321641 L0.000499038488,17.2149395" id="Line-Copy-32"></path>
+                        <path d="M43.1299783,0.426321641 L26.357403,17.2149395" id="Line-Copy-33" transform="translate(34.982800, 8.634146) scale(-1, 1) translate(-34.982800, -8.634146) "></path>
+                    </g>
+                    <g id="Oval-10">
+                        <use fill="#FFF6EB" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <use stroke="#D45353" mask="url(#mask-5)" stroke-width="4.5" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

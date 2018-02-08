@@ -1,0 +1,358 @@
+/*******************************
+
+    Historie animasjoner
+
+*******************************/
+
+#president-arm {
+    position: absolute;
+    animation: wave 1s infinite;
+    transform-origin: 8% 50%;
+}
+
+@keyframes wave {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(-10deg);
+        100% {
+            transform: rotate(0deg);
+        }
+    }
+}
+
+#sirkel1,
+#sirkel3,
+#sirkel5,
+#sirkel6,
+#sirkel8{
+    animation: sirkel1 4s infinite;
+}
+
+@keyframes sirkel1 {
+    0% {
+        opacity: 0;
+    }
+    
+    20% {
+        opacity: 0;
+    }
+    
+    21% {
+        opacity: 100;
+    }
+    100% {
+        opacity: 100;
+
+    }
+}
+
+#sirkel2,
+#sirkel4,
+#sirkel7 {
+    animation: sirkel2 4s infinite;
+}
+
+@keyframes sirkel2 {
+    0% {
+        opacity: 0;
+    }
+    
+    30% {
+        opacity: 0;
+    }
+    
+    31% {
+        opacity: 100;
+    }
+    100% {
+        opacity: 100;
+
+    }
+}
+
+#nosugar,
+#fett {
+    animation: nosugarfat 4s infinite;
+}
+
+@keyframes nosugarfat {
+    0% {
+        opacity: 0;
+    }
+    
+    40% {
+        opacity: 0;
+    }
+    
+    41% {
+        opacity: 100;
+    }
+    100% {
+        opacity: 100;
+
+    }
+}
+
+.biter {
+    animation: biter 2s infinite;
+}
+
+@keyframes biter {
+    0% {
+        transform: translate(0px, -10px);
+    }
+    
+    50% {
+        transform: translate(0px, -40px);
+    }
+    100% {
+        transform: translate(0px, -10px);
+    }
+}
+
+/*******************************
+
+Historie animasjoner fade in
+
+*******************************/
+
+/**** PRESIDENTEN **/
+
+.time1955 {
+    transform: translateX(-700px);
+    transition: .5s ease-in-out;
+}
+
+.time1955.animate {
+    transition: .5s ease-in-out;
+    transform: translateX(0px);
+}
+
+.img1955 {
+    transform: translateX(700px);
+    transition: 1s ease-in-out;
+}
+
+.img1955.animate {
+    transition: 1s ease-in-out;
+    transform: translateX(0px);
+}
+
+.tekst1955 {
+    opacity: 0;
+    transition: 1s ease-in-out;
+}
+
+.tekst1955.animate {
+    opacity: 100;
+    transition: 1s ease-in-out;
+}
+
+/**** SUKKERKRIGEN **/
+
+.time195578 {
+    transform: translateX(700px);
+    transition: .5s ease-in-out;
+}
+
+.time195578.animate {
+    transform: translateX(0px);
+    transition: .5s ease-in-out;
+}
+
+.img5578 {
+    transform: translateX(-800px);
+    transition: 1s ease-in-out;
+}
+
+.img5578.animate {
+    transform: translateX(0px);
+    transition: 1s ease-in-out;
+}
+
+.tekst5578 {
+    opacity: 0;
+    transition: 1s ease-in-out;
+}
+
+.tekst5578.animate {
+    opacity: 100;
+    transition: 1s ease-in-out;
+}
+
+/**** SUKKER VANT **/
+
+.time1978 {
+    transform: translateX(-700px);
+    transition: .5s ease-in-out;
+}
+
+.time1978.animate {
+    transition: .5s ease-in-out;
+    transform: translateX(0px);
+}
+
+.img1978 {
+    transform: translateX(700px);
+    transition: 1s ease-in-out;
+}
+
+.img1978.animate {
+    transition: 1s ease-in-out;
+    transform: translateX(0px);
+}
+
+.tekst1978 {
+    opacity: 0;
+    transition: 1s ease-in-out;
+}
+
+.tekst1978.animate {
+    opacity: 100;
+    transition: 1s ease-in-out;
+}
+
+/*******************************
+
+    Graf animasjoner
+
+*******************************/
+
+.diagram {                                      /*  Søylene  */
+    margin-top: 500px;
+    background-image: url(../img/03/soyler.svg);
+    background-position: left bottom;
+    height: 1px;
+    width: 970px;
+    transition: 1s;
+}
+
+.diagram.animate {                          /*  Søylene animasjon  */
+    transition: 1s ease-in-out;
+    height: 460px;
+    width: 970px;
+    transform: translateY(-564px);
+}
+
+.diagramKg {                                /*  Kilogram  */
+    opacity: 0;
+    width: 970px;
+    height: 230px;
+    transform: translateY(-60px);
+}
+
+.diagramKg.animate {                        /*  Kilogram animasjon  */
+    opacity: 100;
+    transition: 2s ease-in-out;
+}
+
+.arstall {                                  /*  Årstall  */
+    opacity: 0;
+    position: absolute;
+    width: 1048px;
+    height: 67px;
+    bottom: -100px;
+    transform: translateX(-40px);
+}
+
+.arstall.animate {                         /*  Årstall animasjon  */
+    opacity: 100;
+}
+
+/*******************************
+
+    Nasjon graf
+
+*******************************/
+
+.verdenskart{
+    background-image: url("../img/08/8_verdenskart.svg");
+    width: 1440px;
+    height: 940px;
+    position: absolute;
+    margin-top: 250px;
+    z-index: -1;
+}
+
+.nasjonBanner {
+    margin-top: 200px;
+}
+
+.nasjonLand {
+    margin-top: 13px;
+}
+
+.nasjonBanner img {
+    /*  Banner  */
+    display: absolute;
+    width: 1440px;
+    height: 245px;
+}
+
+.nasjonContainer {
+    /*  Diagram container  */
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 640px;
+    height: 700px;
+    margin-top: 150px;
+}
+
+.nasjonDiagram {
+    /*  Søylene  */
+    background-image: url("../img/08/8_soyle_bakgrunn.svg");
+    background-position: left bottom;
+    height: 740px;
+    width: 420px;
+}
+
+.nasjonSoyler {
+    background-image: url("../img/08/8_soyler.svg");
+    height: 740px;
+    width: 1px;
+    transition: 1s;
+}
+
+.nasjonSoyler.animate {
+    height: 740px;
+    width: 420px;
+    transition: 1s ease-in-out;
+}
+
+.diagramKg {
+    /*  Kilogram  */
+    opacity: 0;
+    width: 970px;
+    height: 230px;
+    transform: translateY(-60px);
+}
+
+.diagramKg.animate {
+    /*  Kilogram animasjon  */
+    opacity: 100;
+    transition: 2s ease-in-out;
+}
+
+.arstall {
+    /*  Årstall  */
+    opacity: 0;
+    position: absolute;
+    width: 1048px;
+    height: 67px;
+    bottom: -100px;
+    left: -40;
+}
+
+.arstall.animate {
+    /*  Årstall animasjon  */
+    opacity: 100;
+}
+
+.grafTrekanter {
+    /*  Trekanter  */
+    text-align: center;
+    margin-bottom: 100px;
+}

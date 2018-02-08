@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="249px" viewBox="0 0 1440 249" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Banner 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <text id="text-2" font-family="Bevan-Regular, Bevan" font-size="27" font-weight="normal" fill="#F9F0E4">
+            <tspan x="619.1455" y="170.453846">DET NORSKE </tspan>
+            <tspan x="555.79" y="213.453846">SUKKERFORBRUKET</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-4" points="1103 83 1440 83 1440 183 1103 183 1083 133"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-6" points="20 83 357 83 357 183 20 183 0 133"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-8" points="483.988166 188 473.414987 193.562306 475.434285 181.781153 466.880403 173.437694 478.701576 171.718847 483.988166 161 489.274755 171.718847 501.095928 173.437694 492.542047 181.781153 494.561344 193.562306"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-10" points="954.988166 188 944.414987 193.562306 946.434285 181.781153 937.880403 173.437694 949.701576 171.718847 954.988166 161 960.274755 171.718847 972.095928 173.437694 963.542047 181.781153 965.561344 193.562306"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(0.000000, -3068.000000)">
+            <g id="Banner-2" transform="translate(0.000000, 3068.000000)">
+                <circle id="Oval-2" fill="#D45353" cx="720.5" cy="77.5" r="77.5"></circle>
+                <circle id="Oval-2-Copy-9" stroke="#FFF6EB" stroke-dasharray="5,10" cx="721" cy="78" r="70"></circle>
+                <g id="Group" filter="url(#filter-1)" transform="translate(355.000000, 83.000000)" fill-rule="nonzero">
+                    <polygon id="Shape" fill="#B74343" points="148.5 0 0 0 23.375 49.7776923 0 99.5553846 148.5 99.5553846"></polygon>
+                    <polygon id="Shape" fill="#842828" points="61.25 33.4776923 148.5 0 148.625 68.0838462"></polygon>
+                    <polygon id="Shape" fill="#B74343" points="581 0 729.625 0 706.25 49.7776923 729.625 99.5553846 581 99.5553846"></polygon>
+                    <polygon id="Shape" fill="#842828" points="668.375 33.4776923 581 0 580.875 68.0838462"></polygon>
+                    <rect id="Rectangle-path" fill="#D45353" x="61.375" y="33.6030769" width="607.125" height="128.393846"></rect>
+                </g>
+                <polygon id="Shape" fill="#FFF6EB" fill-rule="nonzero" points="686 48.0037801 720.898571 61.1790378 753.854286 47.6134021 718.955714 37.0487973"></polygon>
+                <polygon id="Shape" fill="#D4C9BB" fill-rule="nonzero" points="720.898571 107.975601 720.898571 61.1790378 753.854286 47.6134021 751.522857 90.5061856"></polygon>
+                <polygon id="Shape" fill="#EBE0D2" fill-rule="nonzero" points="686 48.0037801 720.898571 61.1790378 720.898571 107.975601 687.165714 89.9694158"></polygon>
+                <g id="DET-NORSKE-SUKKERFOR" fill-opacity="1" fill="#F9F0E4">
+                    <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+                    <use xlink:href="#text-2"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#B74343" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <g id="Rectangle-Copy" transform="translate(178.500000, 133.000000) scale(-1, 1) translate(-178.500000, -133.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                    <use fill="#B74343" fill-rule="evenodd" xlink:href="#path-6"></use>
+                </g>
+                <g id="Star">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                    <use fill="#FFF6EB" fill-rule="evenodd" xlink:href="#path-8"></use>
+                </g>
+                <g id="Star-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                    <use fill="#FFF6EB" fill-rule="evenodd" xlink:href="#path-10"></use>
+                </g>
+                <g id="Sew-Copy" transform="translate(0.000000, 91.000000)" stroke="#FFF6EB" stroke-linecap="square" stroke-dasharray="5,10">
+                    <path d="M425.5,36.5 L663.709991,36.5" id="Line"></path>
+                    <path d="M776.5,36.5 L1014.70999,36.5" id="Line-Copy-29" transform="translate(895.500000, 36.500000) scale(-1, 1) translate(-895.500000, -36.500000) "></path>
+                    <path d="M1105.52866,1.5 L1436.73068,1.5" id="Line-Copy-21"></path>
+                    <path d="M965.528662,1.5 L1077.14693,1.5" id="Line-Copy-25"></path>
+                    <path d="M364.5,1.5 L473.14693,1.5" id="Line-Copy-27" transform="translate(419.000000, 1.500000) scale(-1, -1) translate(-419.000000, -1.500000) "></path>
+                    <path d="M1025.49032,80.5 L1077.14693,80.5" id="Line-Copy-26"></path>
+                    <path d="M367.5,80.5 L414.14693,80.5" id="Line-Copy-28" transform="translate(391.000000, 80.500000) scale(-1, -1) translate(-391.000000, -80.500000) "></path>
+                    <path d="M0.52866242,1.5 L331.730678,1.5" id="Line-Copy-23"></path>
+                    <path d="M1105.52866,80.5 L1436.73068,80.5" id="Line-Copy-22"></path>
+                    <path d="M0.52866242,80.5 L331.730678,80.5" id="Line-Copy-24"></path>
+                    <path d="M425.5,143.5 L1014.74528,143.5" id="Line-Copy-20"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="639px" height="273px" viewBox="0 0 639 273" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>1978</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="118.592906 0 635 0 635 265 118.592906 265 0 132.5"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="106.733615 13 619.342466 13 619.342466 252 106.733615 252 0 132.5"></polygon>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="619.342466" height="239" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <text id="text-5" font-family="Bevan-Regular, Bevan" font-size="120" font-weight="normal" fill="#FFF6EB">
+            <tspan x="123.310274" y="176">1978</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.502311862   0 0 0 0 0.255526187   0 0 0 0 0.362447087  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(0.000000, -2596.000000)">
+            <g id="1978" transform="translate(0.000000, 2598.000000)">
+                <g id="Rectangle-7-Copy" transform="translate(317.500000, 132.500000) scale(-1, 1) translate(-317.500000, -132.500000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#D45353" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <use id="Rectangle-7-Copy-2" stroke="#FFF6EB" mask="url(#mask-4)" stroke-width="6" stroke-dasharray="12,10" transform="translate(309.671233, 132.500000) scale(-1, 1) translate(-309.671233, -132.500000) " xlink:href="#path-3"></use>
+                <polygon id="Rectangle-7-Copy-4" fill="#D45353" transform="translate(305.321918, 132.000000) scale(-1, 1) translate(-305.321918, -132.000000) " points="100.864164 19 610.643836 19 610.643836 245 100.864164 245 0 132"></polygon>
+                <g fill-opacity="1" fill="#FFF6EB">
+                    <use filter="url(#filter-6)" xlink:href="#text-5"></use>
+                    <use xlink:href="#text-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

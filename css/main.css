@@ -1,0 +1,922 @@
+/****************/
+/*  SETUP       */
+/****************/
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+    background-color: #4692B6;
+}
+
+
+
+/************************/
+/*  SECTION 1 - HEADER  */
+/************************/
+
+.video {
+    width: 100%;
+    height: auto;
+}
+
+
+.section1-header {
+    background-color: #383838;
+    height: 100vh;
+    position: relative;
+    width: 100vw;
+}
+
+.logotitle {
+    height: 390px;
+    width: 390px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    margin: -190px 0 0 -190px;
+}
+
+
+/***************************/
+/*  SECTION 2 - HISTORIEN  */
+/***************************/
+
+.historieBanner {
+    transform: translateY(-140px);
+}
+
+.historieBanner img {
+    /*  Banner  */
+    display: absolute;
+    width: 1440px;
+    height: 245px;
+}
+
+.historieContainer {
+    display: flex;
+    justify-content: space-between;
+    overflow-x: hidden;
+}
+
+.time1955 {
+    margin-top: 70px;
+}
+
+.time195578 {
+    margin-top: 70px;
+}
+
+.historie1955 p {
+    margin-left: -100px;
+}
+
+
+.historie1978{
+    text-align: center;
+}
+
+.tekst1978 {
+    padding: 80px;
+    margin-top: -80px;
+}
+
+.historie5587 {
+    padding: 80px;
+}
+
+
+.time1955,
+.time5578, {
+    margin-top: 70px;
+}
+
+.img5578 {
+    margin-left: 100px;
+}
+
+.fabrikk {
+    background-image: url("../img/02/2_fabrikk.svg");
+    width: 1440px;
+    height: 1034px;
+    position: absolute;
+    margin-top: -700px;
+    z-index: -1;
+}
+
+
+/***********************/
+/*  SECTION 3 - GRAF   */
+/***********************/
+
+.diagramBanner {
+    margin-top: 200px;
+}
+
+.diagramBanner img {                /*  Banner  */
+    display: absolute;
+    width: 1440px;
+    height: 245px;
+}
+
+.maxInntak {                       /*  Max Inntak (tekst)  */
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+
+.grafSticker img{                   /*  Graf sticker (infoboks)  */
+    position: absolute;
+    text-align: center;
+    width: 210px;
+    height: 210px;
+    transform: translate(1150px, -200px);
+}
+
+
+
+.diagramContainer {                          /*  Diagram container  */
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    margin-top: 200px;
+}
+
+.grafTrekanter {                            /*  Trekanter  */
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+/*************************/
+/*  SECTION 4 - SUKKER   */
+/*************************/
+
+.hvaSukkerBackground {          /*  Hva er sukker? bakgrunn  */
+        margin-top: -130px;
+        background-image: url("../img/04/4_bakgrunn.svg");
+        background-size: 1440px;
+        height: 1665px;
+}
+
+.hvaerContainer {               /*  Hva er container flexbox  */
+    width: 1020px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.hvaerHeaderContainer {    /*  Header flexbox  */
+    padding-top: 200px;
+    text-align: center;
+}
+
+.hvaerStar {                    /*  Hva er stjerner  */
+    text-align: center;
+    margin: auto;
+    transform: translateY(-120px);
+}
+
+.hvaerStar img {                                    /*  Stjernene  */
+    width: 1019px;
+    height: 44px;
+}
+
+.hvaerTekstInfo {
+    margin-top: 100px;           /*  Sukker info tekst  */
+    margin-bottom: 100px;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    font-size: 26px;
+}
+
+.spangronn {                    /*  Span grønn */
+    color: #53D49A;
+}
+
+.spanorange {               /*  Span orange */
+    color: #F6A623;
+}
+
+.molekyl {                  /*  Molekyl div */
+    margin-left: 30px;
+}
+
+.molekyl img{               /*  Molekyl img */
+    width: 929px;
+    height: 459px;
+}
+
+.glukoseSirkel {
+    position: absolute;
+    transform-origin: center center;
+    background-image: url("../img/04/4_ikonboks_glukose.svg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+}
+
+.glukoseContainer img {
+    z-index: 2;
+    padding-top: 60px;
+    padding-left: 70px;
+    padding-right: 100px;
+}
+
+.glukoseContainer img:hover,
+.fruktoseContainer img:hover {
+    transform: scale(1.2);
+    transition: 1s ease-out;
+}
+
+.fruktoseSirkel {
+    position: absolute;
+    transform-origin: center center;
+    background-image: url("../img/04/4_ikonboks_fruktose.svg");
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    margin-left: 280px;
+}
+
+.fruktoseContainer img {
+    z-index: 2;
+    padding-top: 60px;
+    padding-left: 80px;
+}
+
+
+.glukoseContainer img,          /*  Glukose/fruktose img div */
+.fruktoseContainer img {
+    width: 150px;
+    height: 150px;
+}
+
+.glukoseFruktose {              /*  Glukose/fruktose container */
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    margin-left: -120px;
+    margin-top: 100px;
+}
+
+.glukoseContainer,              /*  Glukose +fruktose container */
+.fruktoseContainer {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.glukoseContainer p,            /*  Fruktose + fruktose div */
+.fruktoseContainer p {
+    padding: 10px;
+    padding-top: 50px;
+}
+
+.hvaerfaktaboks {               /*  Hva er faktaboks */
+    padding-top: 100px;
+    margin: auto;
+    padding-left: 20px;
+}
+
+.hvaerfaktaboks img {              /*  Hva er faktaboks img */
+    width: 385px;
+    height: 215px;
+}
+
+
+
+/****************************/
+/*  SECTION 5 - PRODUKTER   */
+/****************************/
+
+.hverdagBanner {
+    margin-top: 250px;
+}
+
+.hverdagBanner img {                /*  Banner  */
+    display: absolute;
+    width: 1440px;
+    height: 245px;
+}
+
+.hverdagInntak {                       /*  Max Inntak (tekst)  */
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+
+.produktSlider {                    /*  Slider container  */
+    position: relative;
+    width: 100%;
+    height: 754px;
+    text-align: center;
+}
+
+.produktSlide {                     /*  Selve sliden  */
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.produktSlide.slide {               /*  Gjør den som er slide til block element  */
+    display: block;
+}
+
+.produktSlide img {                 /*  Størrelse på produktene  */
+    width: 950px;
+    height: 754px;
+}
+
+.leftArrow {                        /*  Venste pil  */
+    position: absolute;
+    left: 0px;
+    transform: translateY(-500px);
+}
+
+.rightArrow{                        /*  Høyre pil  */
+    position: absolute;
+    right: 0px;
+    transform: translateY(-500px);
+}
+
+.rightArrow img,                    /*  Pilene sin størrelse  */
+.leftArrow img {
+    height: 251px;
+    width: 132px;
+}
+
+.hverdagFaktaboks {                 /*  Faktaboks margin  */
+    margin-top: 200px;
+}
+
+.hverdagFaktaboks img {             /*  Faktaboks størrelse  */
+    width: 1440px;
+    height: 287px;
+}
+
+
+
+/*********************************/
+/*  SECTION 6 - HELSEPROBLEMER   */
+/*********************************/
+
+.circleContainer {
+    height: 600px;
+}
+
+.circle {
+    width: 575px;
+    height: 575px;
+    border-radius: 50%;
+    margin-left: 130px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-image: url("../img/06/4_sirkel_tannhelse.svg");
+    background-size: cover;
+}
+
+.tannhygene,
+.hjerte,
+.overvekt,
+.diabetes {
+    width: 145px;
+    height: 145px;
+}
+
+.fettblod,
+.insulin,
+.fettlever,
+.blodtrykk {
+    width: 110px;
+    height: 110px;
+}
+
+
+/****Røde sirkler******/
+
+.tannhygene {
+    transform: translate(200px, -50px);
+    background-image: url("../img/06/6_tannhelse.svg");
+}
+
+.hjerte {
+    transform: translate(-50px, -180px);
+    background-image: url("../img/06/6_hjerte.svg");
+}
+
+.overvekt {
+    transform: translate(200px, -60px);
+    background-image: url("../img/06/6_overvekt.svg");
+}
+
+.diabetes {
+    transform: translate(450px, -690px);
+    background-image: url("../img/06/6_diabetes.svg");
+}
+
+
+/****Blå sirkler******/
+
+.fettblod {
+    transform: translate(30px, -95px);
+    background-image: url("../img/06/6_fettblod.svg");
+}
+
+.insulin {
+    transform: translate(430px, -205px);
+    background-image: url("../img/06/6_insulin.svg");
+}
+
+.fettlever {
+    transform: translate(30px, -260px);
+    background-image: url("../img/06/6_fettlever.svg");
+}
+
+.blodtrykk {
+    transform: translate(430px, -370px);
+    background-image: url("../img/06/6_blodtrykk.svg");
+}
+
+.circleText {
+    text-align: left;
+    width: 278px;
+    transform: translate(900px, -600px);
+}
+
+.spanred {
+    color: #D45353;
+}
+
+.changeH {
+    width: 278px;
+    text-transform: uppercase;
+}
+
+.changeP p {
+    text-align: left;
+    width: 278px;
+}
+
+
+/****On click******/
+
+.clickTannhygene {
+    background-image: url("../img/06/4_sirkel_tannhelse.svg");
+}
+
+.clickHjerte {
+    background-image: url("../img/06/4_sirkel_hjerte.svg");
+}
+
+.clickOvervekt {
+    background-image: url("../img/06/4_sirkel_overvekt.svg");
+}
+
+.clickDiabetes {
+    background-image: url("../img/06/4_sirkel_fettlever%20copy.svg");
+}
+
+.clickFettblod {
+    background-image: url("../img/06/4_sirkel_blodfett.svg");
+}
+
+.clickInsulin {
+    background-image: url("../img/06/4_sirkel_insulin.svg");
+}
+
+.clickFettlever {
+    background-image: url("../img/06/4_sirkel_fettlever.svg");
+}
+
+.clickBlodtrykk {
+    background-image: url("../img/06/4_sirkel_blodtrykk.svg");
+}
+
+
+
+/***************************/
+/*  SECTION 7 - MÅLTIDER   */
+/***************************/
+
+.matBakgrunn {
+    background-image: url("../img/07/7_bakgrunn.svg");
+    width: 1440px;
+    height: 1947px;
+    margin-top: -100px;
+}
+
+.matinfoboks {
+    text-align: center;
+    transform: translateY(-70px);
+}
+
+.matinfoboks img {
+    width: 380px;
+    height: 380px;
+}
+
+.suntHeaderContainer {                  /*  SUNT - USUNT COINTAINER flexbox  */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 990px;
+    margin: auto;
+}
+
+.maltidTrekant {                    /*  Gjør trekanter center */
+    text-align: center;
+}
+
+.maltidTrekant img {                /*  størrelse pr. trekant  */
+    width: 23px;
+    height: 17px;
+}
+
+.matContainer {                      /*  Matcontainer flexbox  */
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.matColone {                         /*  3 rad colonner*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.matProdukt {                            /*  Selve mat punktet  */
+    display: flex;
+    text-align: left;
+    padding: 25px;
+    width: 330px;
+}
+
+.matProdukt p {
+    padding-left: 10px;
+}
+
+.matProdukt img {                         /*  Mat produkt img  */
+    width: 125px;
+    height: 113px;
+}
+
+.smoothie img {
+    height: 145px;
+}
+
+.kylling img {
+    width: 100px;
+    height: 113px;
+}
+
+.sukkerbitFakta {                       /*  Sukkerbit fakta  */
+    width: 330px;
+    padding: 25px;
+    text-align: center;
+}
+
+.sukkerbitSpan {                        /*  Sukkerbit fakta span element */
+    color: #53D49A;
+}
+
+.sukkerbitLinje {
+    margin-bottom: 50px;
+}
+
+.sukkerbitLinje img {
+    width: 260px;
+    height: 2px;
+}
+
+.sukkerbitCube img {
+    width: 185px;
+    height: 89px;
+}
+
+
+/***************************/
+/*  SECTION 8 - NASJONENE  */
+/***************************/
+
+/** ligger i animasjon.css **/
+
+/***************************/
+/*  SECTION 9 - SUKKERSLUTT*/
+/***************************/
+
+.sluttBackground {
+    width: 1440px;
+    height: 2150px;
+    background-image: url(../img/09/nibakgrunn.svg);
+    margin-top: 200px;
+}
+
+.sluttHeaderContainer {                             /*  Header flexbox  */
+    display: flex;
+    justify-content: center;
+    width: 1020px;
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.sluttStar {
+    position: absolute;
+    transform: translateY(50px);
+}
+
+.sluttTekst {                  /*  Sukker info tekst  */
+    margin-bottom: 100px;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    font-size: 26px;
+    
+}
+
+.spangronn {                        /*  Enkle tips span element  */
+    color: #53D49A;
+}
+
+.niPunkt {                      /*  Ni punkt flexbox  */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 848px;
+    margin: auto;
+}
+
+.niColone {                         /*  3 rad  */
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+}
+
+.punkt {                            /*  Selve punktet  */
+    padding: 50px;
+    text-align: center;
+}
+
+.picture1,                             /*  1-9 bildestørrelse  */
+.picture2,
+.picture3,
+.picture4,
+.picture5,
+.picture6,
+.picture7,
+.picture8,
+.picture9 {
+    width: 155px;
+    height: 153px;
+    background-position: center;
+    margin-left: 20px;
+    
+}
+
+.picture1 {                                             /*  1-9 bakgrunn  */
+        background-image: url(../img/09/1orginal.svg);
+}
+
+.picture2 {
+        background-image: url(../img/09/9_2.svg);
+}
+
+.picture3 {
+        background-image: url(../img/09/3orginal.svg);
+}
+
+.picture4 {
+        background-image: url(../img/09/4.orginal.svg);
+}
+
+.picture5 {
+        background-image: url(../img/09/5orginal.svg);
+}
+.picture6 {
+        background-image: url(../img/09/6orginal.svg);
+}
+
+.picture7 {
+        background-image: url(../img/09/7orginal.svg);
+}
+
+.picture8 {
+        background-image: url(../img/09/8orginal.svg);
+}
+
+.picture9 {
+        background-image: url(../img/09/9orginal.svg);
+}
+
+.picture1:hover {                                           /*  1-9 hover  */
+        background-image: url(../img/09/1green.svg);
+}
+
+.picture2:hover {
+        background-image: url(../img/09/9_2_green.svg);
+}
+
+.picture3:hover {
+        background-image: url(../img/09/3green.svg);
+}
+
+.picture4:hover {
+        background-image: url(../img/09/4green.svg);
+}
+
+.picture5:hover {
+        background-image: url(../img/09/5green.svg);
+}
+.picture6:hover {
+        background-image: url(../img/09/6green.svg);
+}
+
+.picture7:hover {
+        background-image: url(../img/09/7green.svg);
+}
+
+.picture8:hover {
+        background-image: url(../img/09/8green.svg);
+}
+
+.picture9:hover {
+        background-image: url(../img/09/9green.svg);
+}
+
+.sluttSukkerbit {                                       /*  Nederste sukkerbit  */
+    text-align: center;
+    margin-top: -20px;
+}
+
+
+/***************************/
+/*  SECTION 10 - KILDER    */
+/***************************/
+
+.kilderContainer {
+    display: flex;
+    max-width: 1000px;
+    flex-direction: column;
+    align-items: baseline;
+    text-align: center;
+    margin: auto;
+    margin-top: 250px;
+    margin-bottom: 150px;
+
+}
+
+.kildelinje1,
+.kildelinje2,
+.kildelinje3,
+.kildelinje4,
+.kildelinje5 {
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    align-items: baseline;
+    margin-top: -80px;
+    justify-content: space-between;
+        margin-top: -140px;
+}
+
+.worldatlas a,
+.thatsugarfilm a,
+.helsenorge a,
+.folkehelse a,
+.sugarcoted a,
+.statsen a,
+.norskhelse a,
+.diabetesfor a {
+    font-family: 'Bevan', cursive, sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+.worldatlas p:hover,
+.thatsugarfilm p:hover,
+.helsenorge p:hover,
+.folkehelse p:hover,
+.sugarcoted p:hover,
+.statsen p:hover,
+.norskhelse p:hover,
+.diabetesfor p:hover {
+    color: #43ab7c;
+    transition: .5s ease-out;
+}
+
+.worldatlas a {
+    font-size: 47px;
+    height: 70px;
+}
+
+.worldatlas p {
+    font-size: 47px;
+    height: 70px;
+}
+
+.thatsugarfilm p {
+    font-size: 70px;
+}
+
+.thatsugarfilm a {
+    font-size: 70px;
+}
+
+.helsenorge p {
+    font-size: 71px;
+}
+
+.helsenorge a {
+    font-size: 71px;
+}
+
+.folkehelse p {
+    font-size: 40px;
+}
+
+.folkehelse a {
+    font-size: 40px;
+}
+
+.sugarcoted p {
+    font-size: 60px;
+}
+
+.sugarcoted a {
+    font-size: 60px;
+}
+
+.statsen p {
+    font-size: 77px;
+}
+
+.statsen a {
+    font-size: 77px;
+}
+
+.norskhelse p {
+   font-size: 27px; 
+}
+
+.norskhelse a {
+   font-size: 27px; 
+}
+
+.diabetesfor p {
+   font-size: 52px; 
+}
+
+.diabetesfor a {
+   font-size: 52px; 
+}
+
+
+.teamContainer {
+    display: flex;
+    flex-direction: row;
+    width: 1110px;
+    justify-content: space-between;
+    margin: auto;
+    text-align: center;
+    padding-top: 150px
+}
+
+.teamBackground {
+    background-image: url("../img/10/11_bakgrunn.svg");
+    width: 1440px;
+    height: 580px;
+}
+
+.logotitle2 {
+    height: 272px;
+    width: 272px;
+    margin-top: -120px;
+    margin-bottom: 50px;
+}
+
+
+
+/***************************
+        Texture
+****************************/
+
+.texture {
+    background-image: url(../img/01/texture.png);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    position: fixed;
+    z-index: 999;
+    pointer-events: none;
+}

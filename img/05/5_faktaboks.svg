@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="287px" viewBox="0 0 1440 287" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>5_faktaboks</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="Lobster-Regular, Lobster" font-size="18" font-weight="normal" line-spacing="30" fill="#FFF6EB">
+            <tspan x="11.0195312" y="102">Dette overinntaket samfunnet har av sukker via </tspan>
+            <tspan x="4.30029297" y="132">snacks og mat, kan føre til flere helseproblemer og </tspan>
+            <tspan x="24.2075195" y="162">sykdomsbilder som kan få livsvarige følger.</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.235809949   0 0 0 0 0.110250582   0 0 0 0 0.0913037811  0 0 0 0.679913949 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="Bevan-Regular, Bevan" font-size="60" font-weight="normal" letter-spacing="2.07692313" fill="#FFF6EB">
+            <tspan x="157.011538" y="69">?</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(0.000000, -7228.000000)">
+            <g id="5_faktaboks" transform="translate(-20.000000, 7228.000000)">
+                <path d="M1370.25,260 L1372.75,260 L1393.5,287 L1414.25,260 L1414.75,260 L1435.5,287 L1456.25,260 L1460,260 L1460,255.120482 L1477,233 L1460,233 L1460,54 L1480,54 L1438.5,0 L1416.5,28.626506 L1394.5,0 L1373.5,27.3253012 L1352.5,0 L1330.5,28.626506 L1308.5,0 L1286.5,28.626506 L1264.5,0 L1243.5,27.3253012 L1222.5,0 L1200.21296,29 L1199.78704,29 L1177.5,0 L1155.5,28.626506 L1133.5,0 L1112.5,27.3253012 L1091.5,0 L1069.21296,29 L1068.78704,29 L1046.5,0 L1024.5,28.626506 L1002.5,0 L981.5,27.3253012 L960.5,0 L938.212963,29 L937.787037,29 L915.5,0 L893.5,28.626506 L871.5,0 L850.5,27.3253012 L829.5,0 L807.212963,29 L806.787037,29 L784.5,0 L762.5,28.626506 L740.5,0 L719.5,27.3253012 L698.5,0 L676.5,28.626506 L654.5,0 L632.5,28.626506 L610.5,0 L589.5,27.3253012 L568.5,0 L546.212963,29 L545.787037,29 L523.5,0 L501.5,28.626506 L479.5,0 L458.5,27.3253012 L437.5,0 L415.212963,29 L414.787037,29 L392.5,0 L370.5,28.626506 L348.5,0 L327.5,27.3253012 L306.5,0 L284.212963,29 L283.787037,29 L261.5,0 L239.5,28.626506 L217.5,0 L196.5,27.3253012 L175.5,0 L153.212963,29 L152.787037,29 L130.5,0 L108.5,28.626506 L86.5,0 L65.5,27.3253012 L44.5,0 L22.212963,29 L20,29 L20,31.8795181 L3,54 L20,54 L20,233 L0,233 L20,259.024096 L20,260 L20.75,260 L41.5,287 L62.25,260 L64.75,260 L85.5,287 L106.25,260 L106.75,260 L127.5,287 L148.25,260 L150.75,260 L171.5,287 L192.25,260 L194.75,260 L215.5,287 L236.25,260 L236.75,260 L257.5,287 L278.25,260 L281.75,260 L302.5,287 L323.25,260 L325.75,260 L346.5,287 L367.25,260 L367.75,260 L388.5,287 L409.25,260 L412.75,260 L433.5,287 L454.25,260 L456.75,260 L477.5,287 L498.25,260 L498.75,260 L519.5,287 L540.25,260 L543.75,260 L564.5,287 L585.25,260 L587.75,260 L608.5,287 L629.25,260 L629.75,260 L650.5,287 L671.25,260 L674.75,260 L695.5,287 L716.25,260 L718.75,260 L739.5,287 L760.25,260 L760.75,260 L781.5,287 L802.25,260 L804.75,260 L825.5,287 L846.25,260 L848.75,260 L869.5,287 L890.25,260 L890.75,260 L911.5,287 L932.25,260 L935.75,260 L956.5,287 L977.25,260 L979.75,260 L1000.5,287 L1021.25,260 L1021.75,260 L1042.5,287 L1063.25,260 L1066.75,260 L1087.5,287 L1108.25,260 L1110.75,260 L1131.5,287 L1152.25,260 L1152.75,260 L1173.5,287 L1194.25,260 L1197.75,260 L1218.5,287 L1239.25,260 L1241.75,260 L1262.5,287 L1283.25,260 L1283.75,260 L1304.5,287 L1325.25,260 L1328.75,260 L1349.5,287 L1370.25,260 Z" id="Combined-Shape" fill="#43AB7C"></path>
+                <g id="Group-2" transform="translate(564.000000, 50.000000)" fill="#FFF6EB" fill-opacity="1">
+                    <g id="Dette-overinntaket-s">
+                        <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                        <use xlink:href="#text-1"></use>
+                    </g>
+                    <g id="?-copy">
+                        <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                        <use xlink:href="#text-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

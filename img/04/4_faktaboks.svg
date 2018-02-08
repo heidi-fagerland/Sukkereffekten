@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="387px" height="218px" viewBox="0 0 387 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>4_faktaboks</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 385 0 385 180 192 215 0 180"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="385" height="215" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <text id="text-4" font-family="Lobster-Regular, Lobster" font-size="14" font-weight="normal" line-spacing="21" fill="#FFF6EB">
+            <tspan x="85.7236328" y="119">Når effekten av glukose avtar så synker </tspan>
+            <tspan x="50.5800781" y="140">blodsukkernivået i tråd med insulinproduksjonen, og </tspan>
+            <tspan x="140.729004" y="161">sløvheten setter inn.</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.351109601 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-6" font-family="Bevan-Regular, Bevan" font-size="60" font-weight="normal" fill="#FFF6EB">
+            <tspan x="174.05" y="78">?</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(-527.000000, -5573.000000)">
+            <g id="4_faktaboks" transform="translate(528.000000, 5573.000000)">
+                <g id="Rectangle-5">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#FFF6EB" mask="url(#mask-3)" stroke-width="6" stroke-linecap="square" stroke-dasharray="1" fill="#43AB7C" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Når-effekten-av-gluk" fill-opacity="1" fill="#FFF6EB">
+                    <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+                    <use xlink:href="#text-4"></use>
+                </g>
+                <g id="?-copy" fill-opacity="1" fill="#FFF6EB">
+                    <use filter="url(#filter-7)" xlink:href="#text-6"></use>
+                    <use xlink:href="#text-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

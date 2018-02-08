@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="145px" viewBox="0 0 145 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>6_tannhelse</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="72.375" cy="72.375" rx="72.375" ry="72.375"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="144.75" height="144.75" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(-430.000000, -7893.000000)">
+            <g id="6_tannhelse" transform="translate(430.000000, 7893.000000)">
+                <use id="Oval-2-Copy-3" stroke="#FFF6EB" mask="url(#mask-2)" stroke-width="8" fill="#D45353" xlink:href="#path-1"></use>
+                <g id="tooth" filter="url(#filter-3)" transform="translate(50.000000, 43.000000)" fill-rule="nonzero" fill="#FFF6EB">
+                    <path d="M0.0603217158,9.61588103 C0.180965147,7.29938272 1.45978552,4.35549944 2.61796247,3.00420875 C3.77613941,1.65291807 5.93565684,0.374017957 7.44369973,0.144781145 C8.95174263,-0.0844556678 12.0281501,-0.0241301908 14.3203753,0.28956229 L22.463807,1.39955107 L30.6072386,0.28956229 C32.8994638,-0.0241301908 35.9758713,-0.0844556678 37.4839142,0.144781145 C38.9919571,0.374017957 41.1514745,1.65291807 42.3096515,3.00420875 C43.4678284,4.35549944 44.7466488,7.29938272 44.8672922,9.61588103 C45.0844504,13.7059484 44.8190349,20.1969697 41.8873995,26.1450617 C41.8873995,26.1450617 39.7882038,30.3437149 39.7882038,37.051908 C39.7882038,41.9624018 37.9182306,52.5434905 35.4932976,57.2488777 C34.4316354,59.312009 31.2466488,58.9138608 30.6072386,56.6818182 C28.3512064,48.8877666 26.7466488,29.2337262 22.463807,29.2940516 C18.1809651,29.2337262 16.5764075,48.8877666 14.3203753,56.6818182 C13.6809651,58.9017957 10.4959786,59.2999439 9.43431635,57.2488777 C7.00938338,52.5434905 5.13941019,41.9624018 5.13941019,37.051908 C5.13941019,30.3437149 3.04021448,26.1450617 3.04021448,26.1450617 C0.108579088,20.1849046 -0.156836461,13.7059484 0.0603217158,9.61588103 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

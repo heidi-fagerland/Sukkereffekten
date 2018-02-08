@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="385px" height="385px" viewBox="0 0 385 385" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>7_faktaboks</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="Bevan-Regular, Bevan" font-size="100" font-weight="normal" fill="#FFF6EB">
+            <tspan x="173.4" y="145">!</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.235809949   0 0 0 0 0.110250582   0 0 0 0 0.0913037811  0 0 0 0.679913949 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="Lobster-Regular, Lobster" font-size="18" font-weight="normal" line-spacing="30">
+            <tspan x="71.2451172" y="187" fill="#FFF6EB">Grunnet disse helseproblemene som </tspan>
+            <tspan x="79.7661133" y="217" fill="#FFF6EB">du står i fare for å utvikle ved for </tspan>
+            <tspan x="84.1210938" y="247" fill="#F6A623">høyt sukkerinntak</tspan>
+            <tspan x="212.573242" y="247" fill="#FFF6EB"> er det derfor </tspan>
+            <tspan x="82.9873047" y="277" fill="#FFF6EB">viktig at du tenker gjennom alle </tspan>
+            <tspan x="160.357422" y="307" fill="#DC709F">måltider</tspan>
+            <tspan x="220.905273" y="307" fill="#FFF6EB">.</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.235809949   0 0 0 0 0.110250582   0 0 0 0 0.0913037811  0 0 0 0.679913949 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(-527.000000, -8765.000000)">
+            <g id="7_faktaboks" transform="translate(530.000000, 8768.000000)">
+                <g id="Group-28">
+                    <polygon id="Shape" stroke="#FFF6EB" stroke-width="4" fill="#43AB7C" fill-rule="nonzero" points="189.40625 4.46484375 201.28125 0 212.5625 5.953125 225.03125 2.9765625 235.421875 10.1203125 248.1875 8.9296875 257.6875 17.2640625 270.15625 17.5617188 278.46875 27.384375 290.9375 29.1703125 298.0625 39.8859375 310.234375 43.1601562 315.875 54.4710938 327.75 59.53125 331.90625 71.4375 342.890625 77.9859375 345.5625 90.4875 355.65625 98.2265625 356.84375 110.728125 365.75 119.657813 365.15625 132.457031 373.171875 142.279687 371.09375 155.078906 377.625 165.794531 374.0625 177.998437 379.109375 189.607031 374.0625 201.215625 377.625 213.419531 371.09375 224.432813 373.171875 236.934375 365.15625 246.757031 365.75 259.55625 356.84375 268.485937 355.65625 281.285156 345.5625 289.024219 342.890625 301.228125 331.90625 307.776563 327.75 319.682813 315.875 324.742969 310.234375 336.053906 298.0625 339.625781 290.9375 350.04375 278.46875 352.127344 270.15625 361.652344 257.6875 361.95 248.1875 370.284375 235.421875 369.09375 225.03125 376.2375 212.5625 373.558594 201.28125 379.214063 189.40625 375.046875 177.53125 379.214063 166.25 373.558594 154.078125 376.2375 143.6875 369.09375 130.921875 370.284375 121.421875 361.95 108.953125 361.652344 100.640625 352.127344 87.875 350.04375 81.046875 339.625781 68.578125 336.053906 62.9375 324.742969 51.359375 319.682813 47.203125 307.776563 36.21875 301.228125 33.546875 289.024219 23.453125 281.285156 22.265625 268.485937 13.359375 259.55625 13.65625 246.757031 5.9375 236.934375 8.015625 224.432813 1.484375 213.419531 5.046875 201.215625 0 189.607031 5.046875 177.998437 1.484375 165.794531 8.015625 155.078906 5.9375 142.279687 13.65625 132.457031 13.359375 119.657813 22.265625 110.728125 23.453125 98.2265625 33.546875 90.4875 36.21875 77.9859375 47.203125 71.4375 51.359375 59.53125 62.9375 54.4710938 68.578125 43.1601562 81.046875 39.8859375 87.875 29.1703125 100.640625 27.384375 108.953125 17.5617188 121.421875 17.2640625 130.921875 8.9296875 143.6875 10.1203125 154.078125 2.9765625 166.25 5.953125 177.53125 0"></polygon>
+                    <g id="!" fill-opacity="1" fill="#FFF6EB">
+                        <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                        <use xlink:href="#text-1"></use>
+                    </g>
+                    <g id="Grunnet-disse-helsep" fill-opacity="1" fill="#FFF6EB">
+                        <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                        <use xlink:href="#text-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

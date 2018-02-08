@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="179px" height="188px" viewBox="0 0 179 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>SugarCube Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(-631.000000, -14294.000000)" fill-rule="nonzero">
+            <g id="SugarCube-Copy" filter="url(#filter-1)" transform="translate(632.000000, 14294.000000)">
+                <polygon id="Shape" fill="#FFF6EB" points="0 28.5489963 90.5632996 62.73183 176.084801 27.5361716 85.5215015 0.126603088"></polygon>
+                <polygon id="Shape" fill="#D4C9BB" points="90.5632996 184.144191 90.5632996 62.73183 176.084801 27.5361716 170.034643 138.820286"></polygon>
+                <polygon id="Shape" fill="#EBE0D2" points="0 28.5489963 90.5632996 62.73183 90.5632996 184.144191 3.0250789 137.427652"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1048px" height="66px" viewBox="0 0 1048 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Graf - År</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(-196.000000, -4047.000000)">
+            <g id="Graf---År" transform="translate(196.000000, 4047.000000)">
+                <polygon id="Triangle---Graph" fill="#D45353" transform="translate(1038.500000, 33.000000) rotate(-270.000000) translate(-1038.500000, -33.000000) " points="1038.5 42.5 1026.5 23.5 1050.5 23.5"></polygon>
+                <polygon id="Triangle---Graph" fill="#D45353" transform="translate(9.500000, 33.000000) scale(-1, 1) rotate(-270.000000) translate(-9.500000, -33.000000) " points="9.5 42.5 -2.5 23.5 21.5 23.5"></polygon>
+                <circle id="Circle---Graph" fill="#2FD3AE" cx="139" cy="33" r="5"></circle>
+                <circle id="Circle---Graph" fill="#2FD3AE" cx="249" cy="33" r="5"></circle>
+                <circle id="Circle---Graph" fill="#2FD3AE" cx="360" cy="33" r="5"></circle>
+                <circle id="Circle---Graph" fill="#2FD3AE" cx="469" cy="33" r="5"></circle>
+                <circle id="Circle---Graph" fill="#2FD3AE" cx="579" cy="33" r="5"></circle>
+                <circle id="Circle---Graph" fill="#2FD3AE" cx="689" cy="33" r="5"></circle>
+                <circle id="Circle---Graph" fill="#2FD3AE" cx="799" cy="33" r="5"></circle>
+                <circle id="Circle---Graph" fill="#2FD3AE" cx="909" cy="33" r="5"></circle>
+                <path d="M1009,1 L39.9840568,1" id="Line---Graph" stroke="#FFF6EB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M1009,65 L39.9840568,65" id="Line---Graph" stroke="#FFF6EB" stroke-width="2" stroke-linecap="square"></path>
+                <text id="1955" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold" fill="#FFF6EB">
+                    <tspan x="65.7890625" y="40">1955</tspan>
+                </text>
+                <text id="1980" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold" fill="#FFF6EB">
+                    <tspan x="175.789062" y="40">1980</tspan>
+                </text>
+                <text id="1985" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold" fill="#FFF6EB">
+                    <tspan x="285.789062" y="40">1985</tspan>
+                </text>
+                <text id="1990" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold" fill="#FFF6EB">
+                    <tspan x="395.789062" y="40">1990</tspan>
+                </text>
+                <text id="1995" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold" fill="#FFF6EB">
+                    <tspan x="505.789062" y="40">1995</tspan>
+                </text>
+                <text id="2000" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold" fill="#FFF6EB">
+                    <tspan x="615.789062" y="40">2000</tspan>
+                </text>
+                <text id="2005" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold" fill="#FFF6EB">
+                    <tspan x="725.789062" y="40">2005</tspan>
+                </text>
+                <text id="2010" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold" fill="#FFF6EB">
+                    <tspan x="835.789062" y="40">2010</tspan>
+                </text>
+                <text id="2015" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold" fill="#FFF6EB">
+                    <tspan x="945.789062" y="40">2015</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="608px" height="77px" viewBox="0 0 608 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>3 Triangles</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PINK" transform="translate(-416.000000, -4203.000000)" fill="#EBE0D2">
+            <g id="3-Triangles" transform="translate(416.000000, 4203.000000)">
+                <polygon id="Triangle" points="304.5 77 281 40 328 40"></polygon>
+                <polygon id="Triangle" points="23.5 37 0 0 47 0"></polygon>
+                <polygon id="Triangle" points="584.5 37 561 0 608 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
